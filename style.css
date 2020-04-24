@@ -1,0 +1,19 @@
+p {
+color: blue;
+}
+
+#square {
+display: flex;
+justify-content: center;
+align-items: center;
+background: blue;
+height: 150px;
+width: 300px;
+border-radius: 20px;
+margin-bottom: 2em;
+}
+
+p {
+    color: white;
+    text-decoration: none;
+}
